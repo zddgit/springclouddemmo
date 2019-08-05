@@ -16,6 +16,7 @@
         <module>consumer</module>
         <module>consumer-feign-hystrix</module>
         <module>service-feign-hystrix</module>
+        <module>hystrix-dashboard</module>
     </modules>
     <dependencyManagement>
         <dependencies>
